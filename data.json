@@ -1,5 +1,5 @@
 {
-    "products":[
+    "sneakers":[
         {
             "id":1,
             "name":"NIKE",
@@ -17,6 +17,24 @@
             "name":"VANS",
             "color":"white",
             "price":1000
+        },
+        {
+            "id":4,
+            "name":"ASICS",
+            "color":"stone",
+            "price":1010
+        },
+        {
+            "id":5,
+            "name":"NEW BALANCE",
+            "color":"grey",
+            "price":1000
+        },
+        {
+            "id":6,
+            "name":"JORDAN",
+            "color":"university blue",
+            "price":2000
         }
     ]
 }
