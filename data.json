@@ -1,0 +1,22 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"NIKE",
+            "color":"white",
+            "price":1550
+        },
+        {
+            "id":2,
+            "name":"ADIDAS",
+            "color":"black",
+            "price":1200
+        },
+        {
+            "id":3,
+            "name":"VANS",
+            "color":"white",
+            "price":1000
+        }
+    ]
+}
